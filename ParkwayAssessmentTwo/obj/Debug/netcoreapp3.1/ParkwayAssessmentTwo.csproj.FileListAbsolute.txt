@@ -1,0 +1,16 @@
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\bin\Debug\netcoreapp3.1\ParkwayAssessmentTwo.exe
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\obj\Debug\netcoreapp3.1\ParkwayAssessmentTwo.csprojAssemblyReference.cache
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\obj\Debug\netcoreapp3.1\ParkwayAssessmentTwo.AssemblyInfoInputs.cache
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\obj\Debug\netcoreapp3.1\ParkwayAssessmentTwo.AssemblyInfo.cs
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\bin\Debug\netcoreapp3.1\ParkwayAssessmentTwo.deps.json
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\bin\Debug\netcoreapp3.1\ParkwayAssessmentTwo.runtimeconfig.json
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\bin\Debug\netcoreapp3.1\ParkwayAssessmentTwo.runtimeconfig.dev.json
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\bin\Debug\netcoreapp3.1\ParkwayAssessmentTwo.dll
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\bin\Debug\netcoreapp3.1\ParkwayAssessmentTwo.pdb
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\obj\Debug\netcoreapp3.1\ParkwayAssessmentTwo.csproj.CopyComplete
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\obj\Debug\netcoreapp3.1\ParkwayAssessmentTwo.dll
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\obj\Debug\netcoreapp3.1\ParkwayAssessmentTwo.pdb
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\obj\Debug\netcoreapp3.1\ParkwayAssessmentTwo.genruntimeconfig.cache
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Toochi Nkuzi\source\repos\ParkwayAssessmentTwo\ParkwayAssessmentTwo\obj\Debug\netcoreapp3.1\ParkwayAssessmentTwo.csproj.CoreCompileInputs.cache
